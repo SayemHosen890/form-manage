@@ -7,7 +7,7 @@ const CheckEmail = () => {
       className="min-h-screen bg-cover bg-center relative"
         style={{
           backgroundImage: `url(${BacIg})`,
-        }} // ✅ background from public
+        }}
     >
       {/* Dark overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-60 z-0" />

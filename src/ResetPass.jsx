@@ -1,5 +1,5 @@
 import React from "react";
-import bgImg from "../public/bg.jpg"; // Adjust path as needed
+import bgImg from "../public/bg.jpg";
 
 const PasswordReset = () => {
   return (
